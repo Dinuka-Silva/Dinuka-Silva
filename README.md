@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dinuka Silva</h1>
 <h3 align="center">Aspiring IT Professional with a Passion for Innovation.</h3>
-
+<hr>
+I am an aspiring Data Analyst passionate about leveraging technology to extract meaningful insights from data. I enjoy working on data-driven projects and continuously expanding my knowledge in programming, database management, and data visualization.
+<hr>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
